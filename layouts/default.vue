@@ -109,6 +109,11 @@ export default {
         },
         {
           icon: 'mdi-chart-bubble',
+          title: 'Unverified Users',
+          to: '/unverified'
+        },
+        {
+          icon: 'mdi-chart-bubble',
           title: 'Histories',
           to: '/histories'
         },
